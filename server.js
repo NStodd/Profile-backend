@@ -13,6 +13,11 @@ const app = express()
 app.use(cors())
 
 // home route for testing
+app.get('/', (req, res) => {
+    res.send("Hello World")
+})
+
+// projects route
 app.get("/projects", (req, res) => {
     // send the projects json
     res.json(projects)
