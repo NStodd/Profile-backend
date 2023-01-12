@@ -1,14 +1,21 @@
 [
     {
-        "name": "project name",
-        "live": "url",
-        "git": "git repo",
-        "image": "image of project"
+        "name": "People Database",
+        "live": "https://bright-crostata-c52a4e.netlify.app/",
+        "git": "https://github.com/NStodd/people_site",
+        "image": "https://static.vecteezy.com/system/resources/previews/000/387/276/original/vector-illustration-of-diverse-people-arms-around-each-other.jpg"
     },
     {
-        "name": "project name",
-        "live": "url",
-        "git": "git repo",
-        "image": "image of project"
+        "name": "Habit Tracker",
+        "live": "https://unit2-project-habittracker.onrender.com/",
+        "git": "https://github.com/NStodd/Project2",
+        "image": "https://smilodone.com/wp-content/uploads/2021/03/smilodone_heuer_570_3.jpg"
+    },
+    {
+        "name": "Motivational Posters",
+        "live": "https://projectone-sigma.vercel.app/",
+        "git": "https://github.com/NStodd/Project1",
+        "image": "https://pixabay.com/get/g021bd4a844b6b3f838379acc8cda562214157ef80d05e4cc9787566ef6b20f1f472e4e9bef3483ca05db070a9543e85974b5810855e041d08eaa7b220cd73f49_1280.jpg"
     }
+
 ]
